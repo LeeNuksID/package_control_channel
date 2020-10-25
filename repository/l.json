@@ -330,6 +330,17 @@
 			]
 		},
 		{
+			"name": "Laravel Smart Command",
+			"details": "https://github.com/LeeNuksID/Laravel-Smart-Command",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "LaravelCollective HTML Form Snippets",
 			"details": "https://github.com/PHLAK/laravelcollective-html-form-snippets",
 			"labels": ["laravel", "snippets"],
